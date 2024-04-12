@@ -17,7 +17,7 @@
 
 ## REQUIREMENT :
 
-Develop a IPL Dashboard for season 2008 to 2022 to have a detailed insight on below problem statements
+Developed a IPL Dashboard for season 2008 to 2022 to have a detailed insight on below problem statements
 
 - Fine the Title Winner, Orange Cap Winner, Purple Cap Winner, Tournament 6’s and 4’s for the respective seasons on IPL
 - Develop IPL Batting and Bowling stats and add a filter where user can select the bowler and batsman to see these stats.
@@ -28,8 +28,9 @@ Develop a IPL Dashboard for season 2008 to 2022 to have a detailed insight on be
 
 ## For More information visit https://www.novypro.com/profile_projects/aravindbadagi
 
+![Cover](https://github.com/arvindbadagi/IPL-Analysis/assets/160807783/3b0e1eb1-ca01-4634-b9d9-3d7ea9abb694)
 
 
-  ![image](https://github.com/arvindbadagi/IPL-Analysis/assets/160807783/a0327e67-456a-4302-80c2-ec2d0baa0470)
+![image](https://github.com/arvindbadagi/IPL-Analysis/assets/160807783/a0327e67-456a-4302-80c2-ec2d0baa0470)
 
 
