@@ -26,6 +26,10 @@ Develop a IPL Dashboard for season 2008 to 2022 to have a detailed insight on be
 - Total wins by team in a season
 - Matches won based on the result type
 
+## For More information visit https://www.novypro.com/profile_projects/aravindbadagi
+
+
+
   ![image](https://github.com/arvindbadagi/IPL-Analysis/assets/160807783/a0327e67-456a-4302-80c2-ec2d0baa0470)
 
 
